@@ -13,10 +13,8 @@ A transparent, keyword-based classifier that labels messages as **Safe**, **Phis
 ├── src/lab1_classifier.py                  # same logic as a standalone script
 ├── results/
 │   ├── Lab1_Final_Result.csv               # final result table (Q5 evidence)
-│   └── category_chart.png                  # bar chart (Q4 evidence)
-├── docs/lab_report.md                      # lab-file write-up: tables, notes, conclusion, viva Q&A
+│   └── category_chart.png                  # bar chart (Q4 evidence)                   
 ├── requirements.txt
-├── LICENSE
 └── README.md
 ```
 
