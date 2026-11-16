@@ -4,8 +4,6 @@
 
 A transparent, keyword-based classifier that labels messages as **Safe**, **Phishing**, **Malware** or **Ransomware**, assigns a **risk level**, recommends a **safe action**, and documents privacy, false-alarm and human-review considerations.
 
-> ⚠️ Educational project. All messages are sanitized samples. Never click or open real suspicious links or files.
-
 ## Project structure
 
 ```
