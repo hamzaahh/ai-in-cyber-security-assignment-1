@@ -4,20 +4,6 @@
 
 A transparent, keyword-based classifier that labels messages as **Safe**, **Phishing**, **Malware** or **Ransomware**, assigns a **risk level**, recommends a **safe action**, and documents privacy, false-alarm and human-review considerations.
 
-## Project structure
-
-```
-.
-├── data/simple_cyber_messages.csv          # 28 sanitized sample messages
-├── notebooks/Lab1_Rule_Based_Threat_Classifier.ipynb   # full executed notebook (Q1–Q5)
-├── src/lab1_classifier.py                  # same logic as a standalone script
-├── results/
-│   ├── Lab1_Final_Result.csv               # final result table (Q5 evidence)
-│   └── category_chart.png                  # bar chart (Q4 evidence)                   
-├── requirements.txt
-└── README.md
-```
-
 ## How it works
 
 1. Convert the message to lowercase.
