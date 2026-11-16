@@ -1,0 +1,29 @@
+message_id,message,correct_category
+1,Team meeting is scheduled for Monday at 10 AM in Room 204.,Safe
+2,Your account has been suspended. Click here to verify your password now.,Phishing
+3,Please update your details urgently to keep your profile active.,Phishing
+4,This executable is a trojan that can spread inside your computer.,Malware
+5,Your files are encrypted. Pay in bitcoin to restore files.,Ransomware
+6,The library book you borrowed has been returned successfully.,Safe
+7,Congratulations! You won a prize. Login to claim it today.,Phishing
+8,Do not open the attachment; it contains spyware.,Malware
+9,We have locked files on your server. A ransom payment is required.,Ransomware
+10,Semester results are available on the official portal.,Safe
+11,Urgent: your bank needs you to verify your OTP.,Phishing
+12,Reminder: the lab record submission deadline is Friday.,Safe
+13,Your password expires today. Click here to keep access.,Phishing
+14,Lunch is arranged in the cafeteria after the workshop.,Safe
+15,Warning: your laptop is infected with a virus. Download the removal tool.,Malware
+16,All your data is encrypted. Send a ransom in bitcoin to unlock it.,Ransomware
+17,Please bring your ID card for the seminar tomorrow.,Safe
+18,Your debit card is blocked. Login with your bank details to reactivate.,Phishing
+19,The invoice attachment installs spyware silently.,Malware
+20,Happy birthday! Wishing you a wonderful year ahead.,Safe
+21,Payment demand: your locked files will be deleted in 48 hours.,Ransomware
+22,The football practice has moved to the main ground.,Safe
+23,You have won a prize! Reply with your OTP to receive it.,Phishing
+24,Assignment 3 has been uploaded to the course page.,Safe
+25,Alert: a trojan was found in the downloaded executable file.,Malware
+26,Urgent: verify your login to avoid account closure.,Phishing
+27,Thanks for your help with the project presentation yesterday.,Safe
+28,Your documents are encrypted. Pay the ransom to restore files.,Ransomware
